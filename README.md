@@ -39,8 +39,10 @@ Dice Simulator
 Random Joke Bot
 
 BMI Calculator using Streamlit
+Link here: https://jo3cietbdtcmfmkslcnh53.streamlit.app/
 
 Simple Python-based Website (Streamlit)
+Link here: https://asia-todo-web-project.streamlit.app/
 
 These projects demonstrate my growing confidence in Python, my ability to solve logical problems, and my interest in building interactive tools. Every task helped me understand how to break problems into smaller chunks and convert ideas into working code.
 
